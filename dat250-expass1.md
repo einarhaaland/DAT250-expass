@@ -7,16 +7,16 @@ Completed the tutorial for deploying Java applications on the Heroku cloud platf
 
 https://devcenter.heroku.com/articles/getting-started-with-java
 
-## Technical problems that you encountered during installation of the software development environment and how you have solved them
+## Technical problems I encountered during installation of the software development environment and how I have solved them
 Unable to use Git Bash as terminal, some heroku commands did not work. Fixed by using normal cmd.
 
-## How you have validated (checked) that the software development environment is working
+## How I have validated (checked) that the software development environment is working
 First set up heroku local, and then deploy and checked using Heroku URL listed at bottom.
 
-## Technical problems encountered with the Heroku platform and how you solved them
+## Technical problems encountered with the Heroku platform and how I solved them
 No technical problems.
 
-## Any pending issues with this assignment which you did not manage to solve
+## Any pending issues with this assignment which I did not manage to solve
 Did not add method for inserting values into db table. Unsure of where to put the code-snippet in the project-dir.
 
 ## Heroku URL: https://whispering-falls-72273.herokuapp.com/
