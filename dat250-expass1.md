@@ -17,6 +17,6 @@ First set up heroku local, and then deploy and checked using Heroku URL listed a
 No technical problems.
 
 ## Any pending issues with this assignment which you did not manage to solve
-No pending issues.
+Did not add method for inserting values into db table. Unsure of where to put the code-snippet in the project-dir.
 
 ## Heroku URL: https://whispering-falls-72273.herokuapp.com/
