@@ -1,5 +1,5 @@
-# Technical problems that I encountered during installation and use of MongoDB and how I resolved
-
+# Technical problems that I encountered during installation and use of MongoDB and how I resolved them
+The powershell script mongodb provide looks for version 5.0.2 in local dir, rename files and it worked with 4.4 (version we are supposed to use).
 
 # The correct validation of the installation package (https://docs.mongodb.com/manual/tutorial/verify-mongodb-packages/)
 
